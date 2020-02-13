@@ -85,7 +85,7 @@
   "author": "Jędrzej Maczan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmaczan/basic-vue-chat/issues"
+    "url": "git+https://github.com/jmaczan/basic-vue-chat/issues"
   },
   "homepage": "https://github.com/jmaczan/basic-vue-chat#readme"
 }
