@@ -5,7 +5,7 @@
       type="text"
       name="message"
       aria-placeholder="Type message..."
-      placeholder="Type message..."
+      placeholder="输入消息..."
       autofocus
       @input="$emit('input', $event.target.value)"
       @keyup.enter.prevent="send"><br>

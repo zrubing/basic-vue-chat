@@ -2,7 +2,7 @@
   <div
     class="input__button"
     @click="send">
-    Send
+    发送
   </div>
 </template>
 
