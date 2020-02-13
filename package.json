@@ -1,5 +1,5 @@
 {
-  "name": "@zrb/basic-vue-chat",
+  "name": "@rbzhang/basic-vue-chat",
   "version": "0.3.5",
   "main": "dist/basic-vue-chat.umd.js",
   "module": "dist/basic-vue-chat.esm.js",
