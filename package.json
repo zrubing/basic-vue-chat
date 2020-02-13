@@ -73,7 +73,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zrubing/basic-vue-chat"
+    "url": "git+https://github.com/zrubing/basic-vue-chat"
   },
   "keywords": [
     "vue",
@@ -85,7 +85,7 @@
   "author": "Jędrzej Maczan",
   "license": "MIT",
   "bugs": {
-    "url": "git+https://github.com/jmaczan/basic-vue-chat/issues"
+    "url": "https://github.com/jmaczan/basic-vue-chat/issues"
   },
   "homepage": "https://github.com/jmaczan/basic-vue-chat#readme"
 }
