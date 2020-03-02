@@ -132,5 +132,7 @@ export default {
 </script>
 
 <style lang="scss">
+$window-width:800px;
+$window-height:600px;
 @import "../../assets/scss/main.scss";
 </style>
